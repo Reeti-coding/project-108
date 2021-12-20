@@ -1,0 +1,44 @@
+body 
+{
+  font-family: 'Lobster Two', cursive;
+  background-image:linear-gradient(crimson, lavender, turquoise);
+}
+
+.header_div
+{
+  background:crimson;
+  color:cyan;
+}
+
+.header_div p 
+{
+  font-family: 'Corinthia', cursive;
+  color: teal;
+  letter-spacing: 2px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.main_div button
+{
+  font-family: 'Corinthia', cursive;
+  color:darkorchid;
+ margin-top:30px;
+  width: 130px;
+  font-size: 18px;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
+
+.footer
+{
+  position: fixed;
+  color:deeppink;
+  bottom:0;
+   width: 100%;
+   font-size: 18px;
+   background-color: hotpink;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px aquamarine;
+}
